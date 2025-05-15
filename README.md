@@ -28,3 +28,4 @@ https://stark-atoll-19657.herokuapp.com/
 
 6. 내 투표목록 조회
 <br />- 자신이 생성한 투표들을 한눈에 볼 수 있는 기능
+<br>
